@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic);
+
+* {
+    box-sizing: border-box;
+}
+
+$background-color01: lightblue;
+
+$fonts: "Open Sans", sans-serif;
+
+body {
+	margin: 50px;
+	font-family: $fonts;
+	background-color: $background-color01;
+	display: flex;
+	justify-content: center;
+  }
+  
+  h1 {
+	display: flex;
+	justify-content: left;
+}
+  
+  .song {
+	width: 400px;
+  }
+  
+  p {
+	display: flex;
+	justify-content: left;
+	font-style: italic;
+	width: 100%;
+  }
