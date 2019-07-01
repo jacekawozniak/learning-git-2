@@ -1,1 +1,1 @@
-# learning-git-2
+https://jacekawozniak.github.io/learning-git-2/
